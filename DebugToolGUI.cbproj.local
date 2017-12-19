@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.700,D:\YandexDisk\workspace\STM8-uart\DebugToolGUI\DebugToolGUI.cbproj=C:\Users\BBS\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.104,=D:\YandexDisk\workspace\STM8-uart\DebugToolGUI\COMM.H</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.598,D:\YandexDisk\workspace\STM8-uart\DebugToolGUI\Unit1.cpp=C:\Users\BBS\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.672,D:\YandexDisk\workspace\STM8-uart\DebugToolGUI\DebugToolGUIPCH1.h=D:\YandexDisk\workspace\STM8-uart\DebugToolGUI\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.865,D:\YandexDisk\workspace\STM8-uart\DebugToolGUI\Project1PCH1.h=C:\Users\BBS\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.117,=D:\YandexDisk\workspace\STM8-uart\DebugToolGUI\uart.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.598,D:\YandexDisk\workspace\STM8-uart\DebugToolGUI\Unit1.h=C:\Users\BBS\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.192,=C:\Users\BBS\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.598,D:\YandexDisk\workspace\STM8-uart\DebugToolGUI\Unit1.dfm=C:\Users\BBS\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.135,=D:\YandexDisk\workspace\STM8-uart\DebugToolGUI\uart.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.087,=D:\YandexDisk\workspace\STM8-uart\DebugToolGUI\COMM.CPP</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.224,=C:\Users\BBS\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
