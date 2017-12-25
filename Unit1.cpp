@@ -13,13 +13,17 @@ TForm1 *Form1;
 void Update_COM_Port_list(void)
 {
 	std::list<_TCHAR*> port_list;
+	int prev_ItemIndex = Form1->ComboBox_COMPORTS->ItemIndex;
 	Form1->ComboBox_COMPORTS->Items->Clear();
 	Get_port_list(port_list);
 	for (std::list<_TCHAR*>::iterator it = port_list.begin(); it != port_list.end(); it++)
 		Form1->ComboBox_COMPORTS->Items->Add(*it);
 	if (port_list.size() > 0) {
-		if (Form1->ComboBox_COMPORTS->ItemIndex < 0)
+		if (prev_ItemIndex < 0) {
 			Form1->ComboBox_COMPORTS->ItemIndex = 0;
+		} else {
+			Form1->ComboBox_COMPORTS->ItemIndex = prev_ItemIndex;
+		}
 	} else {
 		Form1->ComboBox_COMPORTS->ItemIndex = -1;
 		Form1->ComboBox_COMPORTS->Text = L"";
